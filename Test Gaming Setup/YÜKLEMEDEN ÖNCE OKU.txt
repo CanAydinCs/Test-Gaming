@@ -1,0 +1,3 @@
+Oyunu "setup" isimli sihirbazý çalýþtýrarak kurabilirsiniz.
+
+Oyunun düzgün çalýþmasý için Masaüstüne atmanýzý tavsiye deriz.

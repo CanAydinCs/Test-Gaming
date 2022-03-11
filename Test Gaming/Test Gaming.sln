@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Gaming", "Test Gaming\Test Gaming.csproj", "{4974CB4B-5727-4E97-BE4A-70F68FA4D1A1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Test Gaming Setup", "Test Gaming Setup\Test Gaming Setup.vdproj", "{43E62BE9-B535-4663-996B-2FF169A776EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4974CB4B-5727-4E97-BE4A-70F68FA4D1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4974CB4B-5727-4E97-BE4A-70F68FA4D1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4974CB4B-5727-4E97-BE4A-70F68FA4D1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4974CB4B-5727-4E97-BE4A-70F68FA4D1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E62BE9-B535-4663-996B-2FF169A776EC}.Debug|Any CPU.ActiveCfg = Debug
+		{43E62BE9-B535-4663-996B-2FF169A776EC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {781E4EA0-A9AC-4C1C-867E-A5CD1F115C3A}
+	EndGlobalSection
+EndGlobal

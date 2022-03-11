@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4974CB4B-5727-4E97-BE4A-70F68FA4D1A1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Test_Gaming</RootNamespace>
+    <AssemblyName>Test Gaming</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lvl\lvl1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lvl\lvl1.Designer.cs">
+      <DependentUpon>lvl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lvl\lvl10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lvl\lvl10.Designer.cs">
+      <DependentUpon>lvl10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lvl\lvl11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lvl\lvl11.Designer.cs">
+      <DependentUpon>lvl11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lvl\lvl12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lvl\lvl12.Designer.cs">
+      <DependentUpon>lvl12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lvl\lvl13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lvl\lvl13.Designer.cs">
+      <DependentUpon>lvl13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lvl\lvl14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lvl\lvl14.Designer.cs">
+      <DependentUpon>lvl14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lvl\lvl2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lvl\lvl2.Designer.cs">
+      <DependentUpon>lvl2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lvl\lvl3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lvl\lvl3.Designer.cs">
+      <DependentUpon>lvl3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lvl\lvl4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lvl\lvl4.Designer.cs">
+      <DependentUpon>lvl4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lvl\lvl5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lvl\lvl5.Designer.cs">
+      <DependentUpon>lvl5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lvl\lvl6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lvl\lvl6.Designer.cs">
+      <DependentUpon>lvl6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lvl\lvl7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lvl\lvl7.Designer.cs">
+      <DependentUpon>lvl7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lvl\lvl8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lvl\lvl8.Designer.cs">
+      <DependentUpon>lvl8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lvl\lvl9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lvl\lvl9.Designer.cs">
+      <DependentUpon>lvl9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sonlar\ending1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sonlar\ending1.Designer.cs">
+      <DependentUpon>ending1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sonlar\ending2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sonlar\ending2.Designer.cs">
+      <DependentUpon>ending2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sonlar\ending3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sonlar\ending3.Designer.cs">
+      <DependentUpon>ending3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sonlar\ending4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sonlar\ending4.Designer.cs">
+      <DependentUpon>ending4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sonlar\ending5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sonlar\ending5.Designer.cs">
+      <DependentUpon>ending5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sonlar\ending6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sonlar\ending6.Designer.cs">
+      <DependentUpon>ending6.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lvl\lvl1.resx">
+      <DependentUpon>lvl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lvl\lvl10.resx">
+      <DependentUpon>lvl10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lvl\lvl11.resx">
+      <DependentUpon>lvl11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lvl\lvl12.resx">
+      <DependentUpon>lvl12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lvl\lvl13.resx">
+      <DependentUpon>lvl13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lvl\lvl14.resx">
+      <DependentUpon>lvl14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lvl\lvl2.resx">
+      <DependentUpon>lvl2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lvl\lvl3.resx">
+      <DependentUpon>lvl3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lvl\lvl4.resx">
+      <DependentUpon>lvl4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lvl\lvl5.resx">
+      <DependentUpon>lvl5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lvl\lvl6.resx">
+      <DependentUpon>lvl6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lvl\lvl7.resx">
+      <DependentUpon>lvl7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lvl\lvl8.resx">
+      <DependentUpon>lvl8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lvl\lvl9.resx">
+      <DependentUpon>lvl9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Sonlar\ending1.resx">
+      <DependentUpon>ending1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sonlar\ending2.resx">
+      <DependentUpon>ending2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sonlar\ending3.resx">
+      <DependentUpon>ending3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sonlar\ending4.resx">
+      <DependentUpon>ending4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sonlar\ending5.resx">
+      <DependentUpon>ending5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sonlar\ending6.resx">
+      <DependentUpon>ending6.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\load1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

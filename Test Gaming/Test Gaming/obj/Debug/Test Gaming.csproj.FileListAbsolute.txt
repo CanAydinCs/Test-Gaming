@@ -1,0 +1,57 @@
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\bin\Debug\Test Gaming.exe.config
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\bin\Debug\Test Gaming.exe
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\bin\Debug\Test Gaming.pdb
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test Gaming.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Form1.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test Gaming.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test Gaming.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test Gaming.exe
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test Gaming.pdb
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl1.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl2.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Sonlar.ending1.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl3.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Sonlar.ending2.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl4.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Sonlar.ending3.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl5.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl6.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Sonlar.ending4.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl7.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl8.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl9.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl10.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Sonlar.ending5.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl11.resources
+C:\Users\ASUS\Desktop\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Sonlar.ending6.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\bin\Debug\Test Gaming.exe.config
+G:\Eski Dosyalar\Test Gaming\Test Gaming\bin\Debug\Test Gaming.exe
+G:\Eski Dosyalar\Test Gaming\Test Gaming\bin\Debug\Test Gaming.pdb
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test Gaming.csprojAssemblyReference.cache
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Form1.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl1.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl10.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl11.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl2.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl3.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl4.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl5.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl6.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl7.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl8.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl9.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Properties.Resources.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Sonlar.ending1.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Sonlar.ending2.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Sonlar.ending3.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Sonlar.ending4.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Sonlar.ending5.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Sonlar.ending6.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test Gaming.csproj.GenerateResource.cache
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test Gaming.csproj.CoreCompileInputs.cache
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test Gaming.exe
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test Gaming.pdb
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl12.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl13.resources
+G:\Eski Dosyalar\Test Gaming\Test Gaming\obj\Debug\Test_Gaming.Lvl.lvl14.resources
